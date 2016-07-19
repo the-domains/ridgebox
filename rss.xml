@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ridgebox]]></title>
+        <description><![CDATA[ridgebox]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 19 Jul 2016 05:01:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BLENDING CREATIVITY, STRATEGY, AND DISCOVERY]]></title>
+            <description><![CDATA[<article><h1>BLENDING CREATIVITY, STRATEGY, AND DISCOVERY</h1><p>Ridgebox is a boutique creative firm that specializes in web development, video production, and other creative ventures.</p></article>]]></description>
+            <link>undefinedblending-creativity-strategy-and-discovery/index.html</link>
+            <guid isPermaLink="false">0ad417ce-90df-48b5-ac78-8d5d38ebb459</guid>
+            <pubDate>Tue, 19 Jul 2016 05:01:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
